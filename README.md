@@ -66,6 +66,6 @@ Abaixo, deixarei alguns links para downloads oficiais de tudo o que foi utilizad
  ID da extensão Live Server - ritwickdey.LiveServer
 ```
 ### 🪄Link do Projeto
-Clique [aqui](https://jheniffermoraes.github.io/projeto-detona-ralph/) e acesse o projeto!
+Clique [aqui](https://jheniffermoraes.github.io/trilha-css-desafio-01/) e acesse o projeto!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0083cc&height=100&section=footer"/>
